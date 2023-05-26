@@ -1,8 +1,8 @@
 import random
-answer = input('Введите число от 1 до 6')
+answer = input('choice number from 1 to 6')
 random_number = random.randint(1, 6)
 if answer != random_number:
-    print('ты выжил сосунок')
+    print('you are survive')
 else:
-    print('ты умер АХХАХАХАХАХ')
-print(f'Пуля была под номером: {random_number}')
+    print('You died')
+print(f'Bullet: {random_number}')
