@@ -1,2 +1,2 @@
-print('hello world!')
+print('GAY GAY GAY GAY!')
 a = 'fuck you'
